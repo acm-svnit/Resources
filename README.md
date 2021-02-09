@@ -52,6 +52,7 @@
 
   - [Kali Linux](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
   - [Software Security](https://www.coursera.org/learn/software-security)  
+  - [Lazy Script](https://github.com/arismelachroinos/lscript)
   - [Articles](https://null-byte.wonderhowto.com/)
   
 ## BlockChain
