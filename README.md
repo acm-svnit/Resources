@@ -50,8 +50,17 @@
 
 ## Cyber security
 
+  - [Kali Linux](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
+  - [Software Security](https://www.coursera.org/learn/software-security)  
+  - [Articles](https://null-byte.wonderhowto.com/)
+  
 ## BlockChain
 
+ - [Blockchain Terminology](https://blog.goodaudience.com/blockchain-terminology-d903758d6bd)
+ - [Smart Contract](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu)
+ - [Web3.JS](https://www.youtube.com/watch?v=t3wM5903ty0&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
+ - [Working of Bitcoin](https://www.coursera.org/learn/cryptocurrency)
+ 
 ## Game Dev
 
 - [Unity Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
