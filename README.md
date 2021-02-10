@@ -19,6 +19,9 @@
 - [Codeforce](https://codeforces.com)
 - [Atcoder](https://atcoder.jp/)
 - [Spoj](https://www.spoj.com/)
+- [Cp-algorithms](http://cp-algorithms.com/)
+- [Leetcode](https://leetcode.com/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
 
 ## Mobile Dev
 
@@ -66,6 +69,7 @@
 
 - [Unity Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
 - [Godot Docs](https://docs.godotengine.org/en/stable/getting_started/step_by_step/your_first_game.html)
+- [Github repository for Game dev resources](https://github.com/Kavex/GameDev-Resources)
 
 ## AI - ML
 
