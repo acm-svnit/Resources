@@ -75,3 +75,13 @@
 
 - [Andrew NG ML course](https://www.coursera.org/learn/machine-learning)
 - [Deep Learning](https://www.deeplearning.ai/programs/)
+- [For beginners](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
+- Basic ML Algo Resources
+  - [Linear Regression](https://medium.com/@datalesdatales/predicting-house-prices-with-linear-regression-595422992c48)
+  - [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
+  - [Lasso & Ridge Regression](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
+  - [KNN](https://towardsdatascience.com/knn-using-scikit-learn-c6bed765be75)
+  - [Decision Tree Classifier](https://medium.com/pursuitnotes/decision-tree-classification-in-9-steps-with-python-600c85ef56de)
+  - [Random Forest Classifier](https://towardsdatascience.com/random-forest-classification-and-its-implementation-d5d840dbead0)
+  - [SVM](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+  - [XGB](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
