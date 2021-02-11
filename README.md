@@ -76,6 +76,10 @@
 - [Andrew NG ML course](https://www.coursera.org/learn/machine-learning)
 - [Deep Learning](https://www.deeplearning.ai/programs/)
 - [For beginners](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
+- [ML Specialization](https://www.coursera.org/specializations/machine-learning?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-rRQgQyuCQJerkshWa_6Bgw&siteID=JVFxdTr9V80-rRQgQyuCQJerkshWa_6Bgw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
+- [Learn by building projects](https://www.eduonix.com/learn-machine-learning-by-building-projects?coupon_code=CC10)
+- [Data Science Beginner](https://www.udemy.com/course/machinelearning/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-au5ag7xZnuB05f3ywWw4NA&utm_medium=udemyads&utm_source=aff-campaign)
+- [Learn ML using Python](https://www.udemy.com/course/machine-learning-concepts-and-application-of-ml-using-python/)
 - Basic ML Algo Resources
   - [Linear Regression](https://medium.com/@datalesdatales/predicting-house-prices-with-linear-regression-595422992c48)
   - [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
@@ -85,10 +89,6 @@
   - [Random Forest Classifier](https://towardsdatascience.com/random-forest-classification-and-its-implementation-d5d840dbead0)
   - [SVM](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
   - [XGB](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
-  - [ML Specialization](https://www.coursera.org/specializations/machine-learning?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-rRQgQyuCQJerkshWa_6Bgw&siteID=JVFxdTr9V80-rRQgQyuCQJerkshWa_6Bgw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
-  - [Learn by building projects](https://www.eduonix.com/learn-machine-learning-by-building-projects?coupon_code=CC10)
-  - [Data Science Beginner](https://www.udemy.com/course/machinelearning/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-au5ag7xZnuB05f3ywWw4NA&utm_medium=udemyads&utm_source=aff-campaign)
-  - [Learn ML using Python](https://www.udemy.com/course/machine-learning-concepts-and-application-of-ml-using-python/)
   
 ## Other
 - [A-Z Resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
