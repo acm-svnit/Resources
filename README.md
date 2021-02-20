@@ -10,6 +10,7 @@
   - [BlockChain](#blockchain)
   - [Game Dev](#game-dev)
   - [AI - ML](#ai---ml)
+  - [Miscellaneous](#miscellaneous)
 
 ## Competitive Programming
 
@@ -32,11 +33,8 @@
 ## Web Dev
 
 - [Honeypot](https://www.youtube.com/c/Honeypotio)
-
 - [JustForFunc](https://www.youtube.com/c/JustForFunc)
-
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ## Cloud
@@ -90,5 +88,13 @@
   - [SVM](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
   - [XGB](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
   
-## Other
+## Miscellaneous
 - [A-Z Resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [Learn to code - Github collection](https://github.com/collections/learn-to-code)
+- [AI-ML Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Code cheatsheets](https://shortcode.dev/)
+- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+- [Awesome Awesome](https://github.com/sindresorhus/awesome)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
